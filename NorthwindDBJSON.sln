@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthwindDBJSON.ADO", "NorthwindDBJSON.ADO\NorthwindDBJSON.ADO.csproj", "{27CCC10D-78CA-4380-AB5A-3E7A28A78088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CCC10D-78CA-4380-AB5A-3E7A28A78088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CCC10D-78CA-4380-AB5A-3E7A28A78088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CCC10D-78CA-4380-AB5A-3E7A28A78088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CCC10D-78CA-4380-AB5A-3E7A28A78088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34062F6A-34BA-49F6-AF94-88D1EBB4C0AC}
+	EndGlobalSection
+EndGlobal
