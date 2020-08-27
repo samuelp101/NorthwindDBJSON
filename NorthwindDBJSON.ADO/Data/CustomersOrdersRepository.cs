@@ -84,9 +84,8 @@ namespace NorthwindDBJSON.ADO.Data
                 }
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-
                 throw;
             }
 

@@ -69,6 +69,7 @@ function PageManager()
         let XHR = new XMLHttpRequest();
         XHR.open("GET", apiURL + queryString, true);
         XHR.timeout = 10000;  // in milliseconds
+        XHR.setRequestHeader('Access-Control-Allow-Headers', '*');
         XHR.send();
 
         XHR.onload = function ()
